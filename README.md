@@ -43,6 +43,8 @@ Font: Raleway.
 
 Line-height: 30px (parrafos)
 
+La pagina estara contenida en una caja con la clase "container" de bootstrap.
+
 Tamaño de seccion-grande: width:100% height:100vh;
 
 Tamaño de seccion-chica: width:100% height:50vh;
