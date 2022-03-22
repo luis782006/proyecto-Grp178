@@ -33,7 +33,7 @@ Deje su nombre al costado de la secion que va a realizar. Ej. Banner: Nombre- Lu
 
 Se debe crear una rama por la seccion que haya elegido hacer. Asegurese de que se encuentre en su rama cuando comience o retome el trabajo.
 
-Dejo los link de bootstrap y google font para facilitar la tarea.
+Dejo los link de bootstrap y google font para facilitar la tarea. Aunque dejare un archivo html con lo basico y los link en el.
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-                EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -102,7 +102,7 @@ La paginas deben ser responsivas. Habra que aplicar los breakpoint para las secc
            }
 
 Para el nav, banner, secciones chica usen los valores que crean relativos a la las medidas que se pasaron.
-Aclaraciones: Esto es solo una pagina web de practica. No tiene ninguna rigurosidad o vinculo directo con el modulo y curso. 
+Aclaraciones: Esto es solo una pagina web de practica. No tiene ninguna rigurosidad o vinculo directo con el modulo y curso. Tampoco hay link de enlaces. Es solo u diseño.
 
 Espero que les guste el desafio. Disculpen el diseño, se hizo lo que se pudo.
 Los inconvenientes de diseño que surgan lo solucionaremos en el camino. 
