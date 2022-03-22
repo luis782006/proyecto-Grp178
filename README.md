@@ -4,7 +4,7 @@ Este proyecto se hace con el fin de practicar lo que hemos visto en modulo 2 de 
 La idea es llevar a la practica conceptos de html y css con el framework de Bootstrap. Ademas del manejo de Github
 Todos los del grp estan invitados a participar. 
 Para ellos vamos a realizar algo sencillo. Se dejan en una carpeta del mismo repositorio las imagenes que se van a utilizar. 
-Para que haya trasnparencia dentro del grp y que no exista confusion se deja claro que es un proyecto sin fines de lucro. EL creador del mismo lo unico que busca es practicar en grp el manejo de github y simular lo que el supone un ambiente laboral.
+Para que haya trasnparencia dentro del grp y que no exista confusion se deja claro que es un proyecto sin fines de lucro. EL creador del mismo lo unico que busca es practicar en grp el manejo de github y simular lo que él supone un ambiente laboral.
 Reglas a seguir.
 1. Se asignaran las tareas para no pisarnos y respetar el trabajo del otro. Para ello debemos crear una nueva rama y trabajar en ella. Luego se hara el correspondiente commit y push.
 2. Asegurese que este trabajando en la su rama. Por desconocimiento del autor del proyecto no habra mucha seguridad entre ramas asi que treatemos de no pisar el trabajo del otro.
