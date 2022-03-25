@@ -18,7 +18,7 @@ Tareas.
 
 1. Barra de Navegacion: Nombre- nombreDeLaPersona.
 2. Banner: Nombre- 
-3. Procesadora: Nombre-
+3. Procesadora: Nancy Echeverria
 4. Batidora: Nombre-
 5. Pisa Papas: Nombre-
 6. Rallador-Rebanador: Nombre-         (En la foto esta rallador repetido (por error) pero seria "Rallador- Rebanador")
