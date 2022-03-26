@@ -1,0 +1,40 @@
+.row > div{
+    background: #ea1c36;
+  }
+  h1{ color:#ffffff}
+  
+  p{ 
+    color: #ffffff
+}
+
+
+
+@media screen and (max-width:425px){
+       
+    .texto{
+   height:50vh;
+   background-color: #ea1c36;
+   
+ }   
+ 
+ .texto h1{
+ margin-bottom: 10px;
+
+  }
+
+ }
+ 
+ @media screen and (max-width:320px){
+   .contenedor-imagen{
+      margin-top:0px;
+
+  }
+   .texto{
+       height:50vh;
+
+   }
+   .texto h1{
+   margin-top: 10px;
+   margin-bottom: 10px;
+   }
+  }
