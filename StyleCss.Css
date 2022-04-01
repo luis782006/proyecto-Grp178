@@ -1,0 +1,63 @@
+
+@media screen and (max-width:425px){
+       
+  .texto{
+ height:50vh;
+ 
+}   
+
+.texto h1{
+margin-bottom: 10px;
+}
+}
+
+@media screen and (max-width:375px){
+
+ .texto{
+     height:50vh;
+ }
+ 
+ .texto h1{
+   margin-bottom: 10px;;
+ }
+}
+
+@media screen and (max-width:320px){
+ .contenedor-imagen{
+    margin-top:0px;
+
+}
+ .texto{
+     height:50vh;
+
+ }
+ .texto h1{
+ margin-top: 10px;
+ margin-bottom: 10px;;
+ }
+}
+
+.Texto {
+  color:#ffffff;
+ line-height: 30px;
+ position: relative; top: 120px;
+ font-size: 1em;
+ font-family:"Raleway"
+}
+h1{
+ margin-bottom: 30px;
+}
+.col-md-6#Procesadora-texto{
+ background-color:#ea1c36 ;
+ 
+ 
+}
+.col-md-6#Procesadora-Imagen{
+ background-color: #ffffff;
+}
+.container{
+ float:left
+}
+  
+
+ 
